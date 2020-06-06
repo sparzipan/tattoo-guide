@@ -15,7 +15,6 @@ body,
 }
 
 .main-header {
-  height: 40vh;
   background: linear-gradient(#DB7093, transparent 70%),
     linear-gradient(0deg, #fff, transparent),
     #DB7093 url("https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80") no-repeat center;
